@@ -2,7 +2,7 @@
 #include <sys/socket.h>
 #include <arpa/inet.h>
 #include <string.h>
-
+//starto
 int main(int argc, char *argv[])
 {
 	int socket_desc;
