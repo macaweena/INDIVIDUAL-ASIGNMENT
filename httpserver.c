@@ -5,6 +5,7 @@
 #include <netinet/in.h>
 #include <string.h>
 
+//defining
 #define PORT 8080
 int main(int argc, char const *argv[])
 {
